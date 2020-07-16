@@ -5,4 +5,4 @@
  * @author gsiddart
  *
  */
-package Arrays;
+package arrays;

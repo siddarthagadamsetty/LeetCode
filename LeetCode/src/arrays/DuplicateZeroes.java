@@ -20,7 +20,7 @@
 	Explanation: After calling your function, the input array is modified to: [1,2,3]
  */
 
-package Arrays;
+package arrays;
 
 public class DuplicateZeroes {
 
